@@ -1,5 +1,5 @@
-mingw64-cmake
-mingw64-make
+cmake
+make
 
-mv TubeFetchr.exe build/
+mv TubeFetchr build/
 
