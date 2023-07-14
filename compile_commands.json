@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pydev19/Documents/Projects/C++/TubeFetchr",
+  "command": "/usr/bin/clang++  -I/home/pydev19/Documents/Projects/C++/TubeFetchr/include  -std=gnu++2b -g -o CMakeFiles/TubeFetchr.dir/src/main.cpp.o -c /home/pydev19/Documents/Projects/C++/TubeFetchr/src/main.cpp",
+  "file": "/home/pydev19/Documents/Projects/C++/TubeFetchr/src/main.cpp",
+  "output": "CMakeFiles/TubeFetchr.dir/src/main.cpp.o"
+}
+]
