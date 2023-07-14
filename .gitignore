@@ -2,6 +2,7 @@
 CMakeFiles/
 build/
 .cmake/
+cmake/
 env/
 __pycache__/
 dist/
@@ -9,3 +10,4 @@ cmake_install.cmake
 CMakeCache.txt
 Makefile
 pyrightconfig.json
+CMakePresets.json
