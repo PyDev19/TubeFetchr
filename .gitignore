@@ -5,6 +5,7 @@ CMakeFiles/
 env/
 __pycache__/
 dist/
-pyrightconfig.json
 CMakePresets.json
-./compile_commads.json
+compile_commads.json
+CMakeCache.txt
+cmake_install.cmake
