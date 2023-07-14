@@ -7,3 +7,4 @@ __pycache__/
 dist/
 pyrightconfig.json
 CMakePresets.json
+./compile_commads.json
