@@ -5,16 +5,16 @@
 #include <QObject>
 #include <QUrl>
 #include <QQmlContext>
-#include "include/backend.hpp"
+// #include "include/backend.hpp"
 
 int main (int argc, char *argv[]) {
 	QGuiApplication app(argc, argv);
 	
 	QQmlApplicationEngine engine;
-	QQmlContext *root_context = engine.rootContext();
+	// QQmlContext *root_context = engine.rootContext();
 
-	Backend backend;
-	root_context->setContextProperty("backend", &backend);
+	// Backend backend;
+	// root_context->setContextProperty("backend", &backend);
 
 	engine.load(QUrl("qrc:qml/main.qml"));
 
