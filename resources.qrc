@@ -2,5 +2,6 @@
     <qresource prefix="qml">
         <file alias="main.qml">src/main.qml</file>
 		<file alias="HomeScreen.qml">src/qml/HomeScreen.qml</file>
+		<file alias="SingleDownloadScreen.qml">src/qml/SingleDownloadScreen.qml</file>
     </qresource>
 </RCC>
