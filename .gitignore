@@ -1,11 +1,12 @@
 .cache/
 build/
-.cmake/
-CMakeFiles/
 env/
 __pycache__/
 dist/
-CMakePresets.json
 compile_commads.json
-CMakeCache.txt
-cmake_install.cmake
+TubeFetchr
+*.o
+qrc_resources.cpp
+moc_backend.cpp
+moc_predefs.h
+.qmake.stash
