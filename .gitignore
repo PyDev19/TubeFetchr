@@ -10,3 +10,5 @@ qrc_resources.cpp
 moc_backend.cpp
 moc_predefs.h
 .qmake.stash
+compile_commands.json
+Makefile
